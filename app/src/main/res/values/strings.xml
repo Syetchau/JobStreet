@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RemoJob</string>
+    <string name="image_favorite">image_favorite</string>
+    <string name="logo">company logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_jobs_saved">No jobs saved</string>
+    <string name="search">Search...</string>
+    <string name="today">Today</string>
+    <string name="job_type">job type</string>
+    <string name="job_title">job title</string>
+    <string name="job_location">job location</string>
+    <string name="company_name">company name</string>
+</resources>
